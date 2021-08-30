@@ -1,0 +1,9 @@
+C:\Users\yeuchi\Desktop\CCD Line Camera\Dev\ascii2Bmp\ascii2Bmp\bin\Debug\ascii2Bmp.exe.config
+C:\Users\yeuchi\Desktop\CCD Line Camera\Dev\ascii2Bmp\ascii2Bmp\obj\Debug\ascii2Bmp.Ascii2Bmp.resources
+C:\Users\yeuchi\Desktop\CCD Line Camera\Dev\ascii2Bmp\ascii2Bmp\obj\Debug\ascii2Bmp.Properties.Resources.resources
+C:\Users\yeuchi\Desktop\CCD Line Camera\Dev\ascii2Bmp\ascii2Bmp\obj\Debug\ascii2Bmp.csproj.GenerateResource.Cache
+C:\Users\yeuchi\Desktop\CCD Line Camera\Dev\ascii2Bmp\ascii2Bmp\bin\Debug\ascii2Bmp.exe
+C:\Users\yeuchi\Desktop\CCD Line Camera\Dev\ascii2Bmp\ascii2Bmp\bin\Debug\ascii2Bmp.pdb
+C:\Users\yeuchi\Desktop\CCD Line Camera\Dev\ascii2Bmp\ascii2Bmp\obj\Debug\ascii2Bmp.exe
+C:\Users\yeuchi\Desktop\CCD Line Camera\Dev\ascii2Bmp\ascii2Bmp\obj\Debug\ascii2Bmp.pdb
+C:\Users\yeuchi\Desktop\CCD Line Camera\Dev\ascii2Bmp\ascii2Bmp\obj\Debug\ascii2Bmp.csprojResolveAssemblyReference.cache
